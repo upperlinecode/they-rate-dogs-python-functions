@@ -1,3 +1,4 @@
+from random import randint
 # 1. Write a function called basic_rating that takes in a dog's name and returns a string that says "_____ is a cute dog. ___/10"
 #    For example, basic_rating("Spot") could return "Spot is a cute dog. 10/10"
 
