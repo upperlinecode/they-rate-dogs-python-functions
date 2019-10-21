@@ -22,10 +22,10 @@ Be sure to *call* your functions somewhere in the dog_rater.py program in order 
 # Non-example: call your function (but do nothing with the return):
 example_function()
 
-# Example 1: call your function and print the return:
+# Option 1: call your function and print the return:
 print(example_function())
 
-# Example 2: call your function, store the return, and print that stored value:
+# Option 2: call your function, store the return, and print that stored value:
 result = example_function()
 print(result)
 ```
