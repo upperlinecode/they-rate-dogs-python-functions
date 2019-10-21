@@ -37,8 +37,13 @@ print(result)
 You may find yourself wanting to make certain parts of the dog rater functions a little more wild and random. If so, you may want to know this cool Python function:
 
 ```python
+# At the top of your program, import the function
+from random import randint
+
+# Then, use the randint function to generate random integers. 
 x = randint(5, 10)
 ```
 
-This code will pick a random integer between 5 and 10 and store it in the variable x, and then you can use it later.
-But if you use the randint() function, you must remember to put the line `from random import randint` at the top of your program. This tells the computer where to find the definition for the randint() function, just like how you used `import budget` or `import diet` to allow your tests to access functions defined in other files earlier today.
+This code will pick a random integer between 5 (inclusive) and 10 (exclusive) and store it in the variable x, and then you can use it later.
+
+If you DO use the randint() function, you must remember to put the line `from random import randint` at the top of your program. This tells the computer where to find the definition for the randint() function, just like how you used `import budget` or `import diet` to allow your tests to access functions defined in other files earlier today.
