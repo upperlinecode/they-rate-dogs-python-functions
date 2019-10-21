@@ -19,11 +19,15 @@ python dog_rater.py
 Be sure to *call* your functions somewhere in the dog_rater.py program in order for them to run, and if you want to actually *see* the results, be sure to print the return values.
 
 ```python
-# Call your function:
+# Non-example: call your function (but do nothing with the return):
 example_function()
 
-# Print the return value of this function:
+# Example 1: call your function and print the return:
 print(example_function())
+
+# Example 2: call your function, store the return, and print that stored value:
+result = example_function()
+print(result)
 ```
 
 (It's okay to give really good ratings)
