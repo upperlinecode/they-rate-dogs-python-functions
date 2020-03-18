@@ -1,5 +1,7 @@
 # They Rate Dogs
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/they-rate-dogs-python-functions)](https://repl.it/github/upperlinecode/they-rate-dogs-python-functions)
+
 If you've spent time on Twitter, you've may have come across an account called "We Rate Dogs" that does just that: They rate dogs on a scale from 1-10.
 
 However, the best part about it is that the author really loves dogs, and so they pretty much give every dog at least a 10 - and sometimes the dog is so cute it breaks the scale and gets an 11, a 12, or a 13.
