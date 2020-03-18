@@ -6,7 +6,7 @@ If you've spent time on Twitter, you've may have come across an account called "
 
 However, the best part about it is that the author really loves dogs, and so they pretty much give every dog at least a 10 - and sometimes the dog is so cute it breaks the scale and gets an 11, a 12, or a 13.
 
-![Picture of a double dog!](ratedog.jpg)
+![Picture of a double dog!](https://raw.githubusercontent.com/upperlinecode/they-rate-dogs-python-functions/master/ratedog.jpg)
 
 ## The Goal
 
