@@ -46,6 +46,6 @@ from random import randint
 x = randint(5, 10)
 ```
 
-This code will pick a random integer between 5 (inclusive) and 10 (exclusive) and store it in the variable x, and then you can use it later.
+This code will pick a random integer between 5 and 10 (both inclusive) and store it in the variable x, and then you can use it later.
 
 If you DO use the randint() function, you must remember to put the line `from random import randint` at the top of your program. This tells the computer where to find the definition for the randint() function, just like how you used `import budget` or `import diet` to allow your tests to access functions defined in other files earlier today.
